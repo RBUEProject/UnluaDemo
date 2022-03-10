@@ -1,4 +1,3 @@
-# UnluaDemo
 # lua和引擎的绑定
 
 - lua文件路径：相对于`/Content/Script`的路径
