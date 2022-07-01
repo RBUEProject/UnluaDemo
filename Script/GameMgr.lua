@@ -1,8 +1,3 @@
---
--- @COMPANY ngcod.com
--- @AUTHOR 天空游荡的鱼
--- QQ:708888157
---
 GameMgr = {}
 
 
@@ -10,12 +5,7 @@ function GameMgr:ShowGameInfo()
     print('')
     print('--------------------------------------------------')
     print('Use UnLua develop a LAN TPS game')
-    print("BiliBili:https://space.bilibili.com/453151910")
-    print('www.ngcod.com')
-    print('QQ:708888157')
-    print('--------------------------------------------------')
-    print('')
-    return 'www.ngcod.com'
+    return ''
 end
 
 function GameMgr:Init()
