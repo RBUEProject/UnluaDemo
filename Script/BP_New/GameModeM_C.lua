@@ -1,12 +1,4 @@
---
--- DESCRIPTION
---
--- @COMPANY www.ngcod.com
--- @AUTHOR 天空游荡的鱼
--- QQ:708888157
---
--- @DATE ${date} ${time}
---
+
 
 require "UnLua"
 
