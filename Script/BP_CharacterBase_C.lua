@@ -1,11 +1,3 @@
---
--- DESCRIPTION
---
--- @COMPANY ngcod.com
--- @AUTHOR 天空游荡的鱼
--- QQ:708888157
---
-
 require "UnLua"
 
 local BP_CharacterBase_C = Class()
